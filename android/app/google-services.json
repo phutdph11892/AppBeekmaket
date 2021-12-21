@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "133262534641",
+    "project_id": "doan-5633f",
+    "storage_bucket": "doan-5633f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133262534641:android:9316715735c036e1560650",
+        "android_client_info": {
+          "package_name": "com.marketphake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133262534641-m3dcgqfq8ttuf5vf9f5skap2617ftoue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marketphake",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "133262534641-a51302btmm4b8lgd29mq19qf990j4bhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBzphdM3fRFo7rsdOQSav2D_hVscioapc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133262534641-a51302btmm4b8lgd29mq19qf990j4bhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
